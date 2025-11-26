@@ -69,7 +69,7 @@ Thumbs.db
 # Binaries
 # --------
 *.dll
-*.exe
+# *.exe
 
 .vscode/
 # CMakeCache.txt
